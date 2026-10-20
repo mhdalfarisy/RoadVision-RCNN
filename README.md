@@ -141,7 +141,7 @@ Model menemukan 5 objek dengan skor di atas 0.5 (empat mobil dan satu sepeda mot
 ## 📝 Artikel Lengkap
 
 Penjelasan lengkap tiap bagian kode tersedia di artikel Medium:
-**[Mendeteksi Kendaraan dengan Faster R-CNN MobileNetV3: Dari Dataset Roboflow hingga Uji Coba di Jalan Raya](#)** <!-- ganti # dengan link artikel Medium Anda -->
+**[Mendeteksi Kendaraan dengan Faster R-CNN MobileNetV3: Dari Dataset Roboflow hingga Uji Coba di Jalan Raya](https://medium.com/@m.alfarisy797/mendeteksi-kendaraan-dengan-faster-r-cnn-mobilenetv3-dari-dataset-roboflow-hingga-uji-coba-di-cd7b7ae166bf?sharedUserId=m.alfarisy797)** <!-- ganti # dengan link artikel Medium Anda -->
 
 ---
 
